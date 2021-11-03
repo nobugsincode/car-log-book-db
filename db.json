@@ -11,7 +11,7 @@
   "log-entries": [{
     "id": "1",
     "vehicleId": "1",
-    "date": "2021-11-03"
+    "date": "2021-11-03",
     "price": 123.45,
     "amount": 12.34
   }]
