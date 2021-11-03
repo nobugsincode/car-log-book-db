@@ -1,4 +1,17 @@
 {
+  "categories": [{
+    "id": "1",
+    "name": "Fuel"
+  }, {
+    "id": "2",
+    "name": "Maintenance"
+  }, {
+    "id": "3",
+    "name": "Wash"
+  }, {
+    "id": "4",
+    "name": "Other"
+  }],
   "vehicles": [{
     "id": "1",
     "make": "Land Rover",
