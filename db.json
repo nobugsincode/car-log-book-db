@@ -2,7 +2,11 @@
   "vehicles": [{
     "id": "1",
     "make": "Land Rover",
-    "model": "Range Rover"
+    "model": "Range Rover",
+    "log-entries": [{
+      "id": "1",
+      "date": "2021-11-03"
+    }]
   }, {
     "id": "2",
     "make": "Hyundai",
