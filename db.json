@@ -12,7 +12,17 @@
     "id": "1",
     "vehicleId": "1",
     "date": "2021-11-03",
+    "category": "Fuel",
     "price": 123.45,
-    "amount": 12.34
+    "amount": 12.34,
+    "description": "OKKO Diesel"
+  }, {
+    "id": "2",
+    "vehicleId": "1",
+    "date": "2021-11-02",
+    "category": "Fuel",
+    "price": 45.67,
+    "amount": 10.00,
+    "description": "WOG Diesel"
   }]
 }
